@@ -1,1 +1,1 @@
-# ring_exercise
+# ring-challenge
